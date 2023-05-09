@@ -1,0 +1,2 @@
+//inserting documents in mongoDB
+db.school.insert({"name": "Holberton school"})
